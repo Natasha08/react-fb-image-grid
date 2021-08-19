@@ -6,6 +6,8 @@ var _Images = require('./components/Images');
 
 var _Images2 = _interopRequireDefault(_Images);
 
+require('react-image-lightbox/style.css');
+
 require('./index.css');
 
 function _interopRequireDefault(obj) {
