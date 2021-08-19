@@ -16,7 +16,7 @@
   width: 100% !important;
 }
 
-.MuiGrid-container-1 * {
+.MuiGrid-container-1 {
   margin: 0;
   padding: 0;
   cursor: pointer;
