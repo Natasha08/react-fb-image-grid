@@ -1,4 +1,4 @@
-import './css/index.css';
-import FbGridImages from './components/Images'
+import FbGridImages from './components/Images';
+import './index.css';
 
 export default FbGridImages;
