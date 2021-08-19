@@ -2,7 +2,7 @@
 
 exports.__esModule = true;
 
-require('./css/style.css');
+require('./css/index.css');
 
 var _Images = require('./components/Images');
 
